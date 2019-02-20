@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "app2-firebase-deploy": "app2-firebase-deploy",
+    "default": "app2-firebase-deploy"
+  }
+}
